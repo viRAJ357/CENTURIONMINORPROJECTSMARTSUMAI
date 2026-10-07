@@ -26,15 +26,19 @@
 
 <br/>
 
-[![Status](https://img.shields.io/badge/Status-Production_Ready-22c55e?style=flat-square)](https://github.com/viRAJ357/CENTURIONMINORPROJECTSMARTSUMAI)
-[![Backend](https://img.shields.io/badge/Backend-Live_on_Render-009688?style=flat-square&logo=render)](https://smartsum-ai-backend.onrender.com)
-[![Frontend](https://img.shields.io/badge/Frontend-Live_on_Vercel-000000?style=flat-square&logo=vercel)](https://smart-sum-ai.vercel.app)
+[![Status](https://img.shields.io/badge/Status-Production_Ready-22c55e?style=flat-square&logo=checkmarx&logoColor=white)](https://github.com/viRAJ357/CENTURIONMINORPROJECTSMARTSUMAI)
+[![Backend](https://img.shields.io/badge/Backend-Live_on_Render-009688?style=flat-square&logo=render&logoColor=white)](https://smartsum-ai-backend.onrender.com)
+[![Frontend](https://img.shields.io/badge/Frontend-Live_on_Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://smart-sum-ai.vercel.app/)
 [![License](https://img.shields.io/badge/License-MIT-f59e0b?style=flat-square)](LICENSE)
 [![Author](https://img.shields.io/badge/Author-Nikhil_Kumar-8b5cf6?style=flat-square&logo=github)](https://github.com/viRAJ357)
 
 <br/>
 
-[**🚀 Live Demo**](https://smart-sum-ai.vercel.app) &nbsp;·&nbsp; [**📡 API**](https://smartsum-ai-backend.onrender.com/docs) &nbsp;·&nbsp; [**🏗️ Architecture**](#system-architecture) &nbsp;·&nbsp; [**⚡ Quick Start**](#quick-start)
+> ### 🟢 &nbsp;[**LIVE DEMO → smart-sum-ai.vercel.app**](https://smart-sum-ai.vercel.app/) &nbsp;&nbsp; `Deployed & Running`
+
+<br/>
+
+[**🚀 Live Demo**](https://smart-sum-ai.vercel.app/) &nbsp;·&nbsp; [**📡 Live API**](https://smartsum-ai-backend.onrender.com/docs) &nbsp;·&nbsp; [**🏗️ Architecture**](#system-architecture) &nbsp;·&nbsp; [**⚡ Quick Start**](#quick-start)
 
 <br/>
 
